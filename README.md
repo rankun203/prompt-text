@@ -14,11 +14,11 @@ A collection for prompt text.
 
 ## Example
 
-- p(1, 'Login successful', 'When user hit the login button and login successful')
+1. p(1, 'Login successful', 'When user hit the login button and login successful')
   - p(1).zh = '登录成功'
   - p(1).ja = 'ログインに成功'
-- p(2, 'Your password is not strong enough, please consider: Minimum length 6 characters; Has at least one uppercase and a lowercase, and at least a special character such as !@#$%^&*,.', 'In the sign up page, when user input a password which is not meet our requirements')
-- p(id, 'title', 'description')
+1. p(2, 'Your password is not strong enough, please consider: Minimum length 6 characters; Has at least one uppercase and a lowercase, and at least a special character such as !@#$%^&*,.', 'In the sign up page, when user input a password which is not meet our requirements')
+1. p(id, 'title', 'description')
 
 ## LICENSE
 
