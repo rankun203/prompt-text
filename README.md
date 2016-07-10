@@ -20,10 +20,6 @@ A collection for prompt text.
 1. p(2, 'Your password is not strong enough, please consider: Minimum length 6 characters; Has at least one uppercase and a lowercase, and at least a special character such as !@#$%^&*,.', 'In the sign up page, when user input a password which is not meet our requirements')
 1. p(id, 'title', 'description')
 
-# Concerns
-
-1. Maybe we should make it a table to improve the readability.
-
 ## LICENSE
 
 MIT
