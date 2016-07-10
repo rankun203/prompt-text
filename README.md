@@ -12,5 +12,7 @@ A collection for prompt text.
 
 # Example
 
+```
 - (1, "Login successful", null, )
   - p(1).en = 
+```
