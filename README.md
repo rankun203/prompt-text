@@ -10,6 +10,7 @@ A collection for prompt text.
   - When call the function without title, it will return the whole object.
   - Prompt supports other languages as a property. e.g.: `p(1).en = 'This is a english title'`
   - When access the Prompt, use p(id).
+- We encourage you to make your own variation of these translations while keeping it easy to understand by fork this repository and edit it on your end.
 
 ## Example
 
